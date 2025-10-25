@@ -1,5 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
-
+## NAME:PRADEEP D
+## REF NO:25006327
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -25,41 +26,8 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-
-
-**MODEL GRAPH:**
-
-Resistance (RL) in ohm
-
-**TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**TABLE (2): FOR PRACTICAL CALCULATION**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**MODEL CALCULATION:**
+![exp 6 1](https://github.com/user-attachments/assets/0b178174-2f2c-4448-81df-b101f7434ef0)
+![exp 6 2](https://github.com/user-attachments/assets/56489117-9e7e-489e-b8e7-7907a4c8a6df)
 
 **PROCEDURE:**
 
